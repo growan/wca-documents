@@ -47,7 +47,7 @@ To be more informative, each Guideline is classified using one of the following 
 - 2d+) [ADDITION] Date of birth and contact information should be especially secured.
 - 2d++) [RECOMMENDATION] If a third party (e.g. journalist) asks the organisation team to be put in contact with any competitor(s), the competitor(s) should first be asked for consent.
 - 2h+) [CLARIFICATION] Competitors may be barefoot for Solving With Feet.
-- 2j2+) [EXAMPLE] For example, if a competitor is disqualified from an event for failing to show up for the final round, his results from earlier rounds remain valid.
+- 2j2+) [EXAMPLE] For example, if a competitor is disqualified from an event for failing to show up for the final round, her results from earlier rounds remain valid.
 - 2s+) [REMINDER] Special accommodations must be noted in the Delegate Report.
 
 
@@ -67,7 +67,7 @@ To be more informative, each Guideline is classified using one of the following 
 - 4b2+) [CLARIFICATION] In general, all official scramble sequences should be kept secret during the competition and published together after the end of the competition (see [Regulation 1c3a](regulations:regulation:1c3a)). In some cases (e.g. world records), the organisation team may wish to release specific scrambles sooner after the end of a round.
 - 4d+) [CLARIFICATION] Some puzzles use standard colour schemes, except that white is replaced with black. In this case, black is the darkest colour and must not be treated as white.
 - 4f+) [RECOMMENDATION] The WCA Delegate should generate sufficient scrambles for the entire competition ahead of time, including spare scrambles for extra attempts.
-- 4f++) [REMINDER] If the WCA Delegate generates any additional scrambles during the competition, he must save them (see [Regulation 1c3a](regulations:regulation:1c3a)).
+- 4f++) [REMINDER] If the WCA Delegate generates any additional scrambles during the competition, she must save them (see [Regulation 1c3a](regulations:regulation:1c3a)).
 
 
 ## <article-5><puzzle-defects><puzzledefects> Article 5: Puzzle Defects
@@ -103,7 +103,7 @@ To be more informative, each Guideline is classified using one of the following 
 
 - 9b+) [ADDITION] The preferred format for the final of an event is "Average of 5" or "Mean of 3", if possible.
 - 9b++) [ADDITION] Events other than those specified in [Regulation 9b](regulations:regulation:9b) may be held during a competition, but will be considered unofficial and therefore will not be included in the official results of the competition.
-- 9f5+) [CLARIFICATION] The result for an attempt is DNS if the competitor was eligible for the attempt and did not attempt it. If the competitor did not qualify for an attempt (e.g. in a combined round), he does not have any result for the attempt.
+- 9f5+) [CLARIFICATION] The result for an attempt is DNS if the competitor was eligible for the attempt and did not attempt it. If the competitor did not qualify for an attempt (e.g. in a combined round), she does not have any result for the attempt.
 - 9q+) [SEPARATE][RECOMMENDATION] Events and rounds should have at least 2 competitors.
 - 9r+) [EXPLANATION] The goal of a qualification round is to let unranked or low ranked competitors qualify for the first round of an event with many registered competitors.
 
@@ -127,7 +127,7 @@ To be more informative, each Guideline is classified using one of the following 
 - A2c1+) [CLARIFICATION] In the past, score cards have been used to cover puzzles while leaving some sides exposed. This is no longer permitted.
 - A3c3+) [CLARIFICATION] Although the judge is required to reset the timer for the competitor (see [Regulation A3b](regulations:regulation:A3b)), the competitor may reset it before/during the inspection phase if the judge accidentally neglected to do so.
 - A6b+) [EXPLANATION] The arbitrary value of 0.06 seconds was chosen to accommodate concerns about Stackmat timer malfunctions.
-- A6g+) [ADDITION] While he is determining whether to assign a penalty for misalignment, the judge should not touch the puzzle.
+- A6g+) [ADDITION] While she is determining whether to assign a penalty for misalignment, the judge should not touch the puzzle.
 
 
 ## <article-B><blindfolded><blindfoldedsolving> Article B: Blindfolded Solving
@@ -151,7 +151,7 @@ To be more informative, each Guideline is classified using one of the following 
 
 ## <article-E><fewest-moves><fewestmovessolving> Article E: Fewest Moves Solving
 
-- E2b+) [CLARIFICATION] A competitor may choose to stop his attempt early by handing in a solution before the time limit.
+- E2b+) [CLARIFICATION] A competitor may choose to stop her attempt early by handing in a solution before the time limit.
 
 
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Article H: Multiple Blindfolded Solving
@@ -159,4 +159,4 @@ To be more informative, each Guideline is classified using one of the following 
 - H1b1+) [REMINDER] The attempt is not disqualified for reaching the time limit, due to exceptions for Multiple Blindfolded Solving (see [Regulation A1a4](regulations:regulation:A1a4) and [Regulation A1a5](regulations:regulation:A1a5)).
 - H1b1++) [ADDITION] The judge may permit the competitor to continue the attempt unofficially, but the attempt must be stopped and judged first, in full accordance with the Regulations.
 - H1d+) [EXAMPLE] Example: If a competitor attempts 10 cubes, stops with a time of 59:57, and has two time penalties, the time for the result is 59:57 + 2*2 = 60:01 (also see [Regulation A1a5](regulations:regulation:A1a5)).
-- H1d++) [EXAMPLE] Example: If a competitor attempts 10 cubes, and the judge stops him at one 60 minutes, and has two time penalties, the time for the result is 60:00 + 2*2 = 60:04.
+- H1d++) [EXAMPLE] Example: If a competitor attempts 10 cubes, and the judge stops her at one 60 minutes, and has two time penalties, the time for the result is 60:00 + 2*2 = 60:04.
