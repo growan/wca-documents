@@ -252,10 +252,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 10b) Only the resting state of the puzzle, after the timer has been stopped, is considered.
 - 10c) The puzzle may be in any orientation at the end of the attempt.
 - 10d) All pieces of a puzzle must be fully attached to the puzzle in their required positions.
-- 10e) A puzzle is solved when all face colours are reassembled and all parts are aligned within the limits specified below:
-    - 10e1) For each two adjacent parts (e.g. two parallel, adjacent slices of a cube) of the puzzle that are misaligned more than the limit described in [Regulation 10f](regulations:regulation:10f), the puzzle is considered to require one additional move to solve (see "Outer Block Turn Metric" in [Article 12](regulations:article:12)).
-    - 10e2) If no further moves are required to bring the puzzle to its solved state, the puzzle is considered solved without penalty.
-    - 10e3) If one or more moves are required to bring the puzzle to its solved state, the puzzle is considered unsolved. Penalty: disqualification of the attempt (DNF).
+- 10e) A puzzle is solved when all face colours are reassembled, and all parts are placed according to [Regulation 5b5](regulations:regulation:5b5) within the alignment limits in [Regulation 10f](regulations:regulation:10f). Penalty: disqualification of the attempt (DNF).
 - 10f) Limits of acceptable misalignment for puzzles:
     - 10f1) Cube-shaped puzzles: at most 45 degrees.
     - 10f2) Megaminx: at most 36 degrees.
