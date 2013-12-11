@@ -96,6 +96,7 @@ To be more informative, each Guideline is classified using one of the following 
 
 - 8a4+) [RECOMMENDATION] Changes to increase the maximum number of competitors in qualification round or first round, or to add a qualification round for newly registered competitors should be made at least one month before the competition (see [Regulation 9r3](regulations:regulation:9r3)).
 - 8a4++) [RECOMMENDATION] The competition should be announced at least one month before the beginning of the competition.
+- 8a4+++) [RECOMMENDATION] A detailed time schedule, containing all planned events, time limits and formats, should be publically available at least one week before the beginning of the competition.
 - 8a5+) [SEPARATE][RECOMMENDATION] The competition should have at least 12 competitors.
 
 
