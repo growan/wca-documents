@@ -298,9 +298,9 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 12a3a) Each move of the categories Face Moves and Multiple Outer Slice Moves is counted as 1 move.
         - 12a3b) Each rotation is counted as 0 moves.
 - 12b) Rotations for all cube shaped puzzles:
-    - 12b1) Clockwise, 90 degrees: [f] or z, [b] or z', [r] or x, [l] or x', [u] or y, [d] or y'.
-    - 12b2) Anti-clockwise, 90 degrees: [f'] or z', [b'] or z, [r'] or x', [l'] or x, [u'] or y', [d'] or y.
-    - 12b3) 180 degrees: [f2] or z2, [b2] or z2, [r2] or x2, [l2] or x2, [u2] or y2, [d2] or y2.
+    - 12b1) Clockwise, 90 degrees: x (like R), y (like U), z (like F)
+    - 12b2) Anti-clockwise, 90 degrees: x' (like R'), y' (like U'), z' (like F')
+    - 12b3) 180 degrees: x2, y2, z2.
 - 12c) Notation for Square-1:
     - 12c1) Moves are applied with the smallest slice of the middle layer on left side of front face.
     - 12c2) (x,y) means: turn upper layer x times 30 degrees clockwise, turn bottom layer y times 30 degrees clockwise.
