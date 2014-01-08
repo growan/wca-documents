@@ -216,6 +216,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 9b1a) Round formats for these events are: "Best of X" (where X is 1, 2, or 3), and "Average of 5".
     - 9b2) Rubik's Cube: With Feet, Rubik's Cube: Fewest Moves, 6x6x6 Cube, and 7x7x7 Cube.
         - 9b2a) Round formats for these events are: "Best of X" (where X is 1 or 2) and "Mean of 3".
+        - 9b2b) For Rubik's Cube: Fewest Moves, the WCA also allows "Best of 3" to be used as format and recognises "Mean of 3" results and records based on the times from these rounds.
     - 9b3) Rubik's Cube: Blindfolded, 4x4x4 Cube: Blindfolded, 5x5x5 Cube: Blindfolded, and Rubik's Cube: Multiple Blindfolded.
         - 9b3a) Round formats for these events are: "Best of X" (where X is 1, 2, or 3).
         - 9b3b) For Rubik's Cube: Blindfolded, the WCA also recognises "Mean of 3" rankings and records based on the times from "Best of 3" rounds.
