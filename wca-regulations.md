@@ -118,7 +118,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 3d3) Corrugated/textured stickers whose orientation can be distinguished by feel are not permitted for blindfolded events.
 - 3h) Any modifications to a puzzle that result in poor performance by a competitor are not grounds for additional attempts.
 - 3j) Puzzles must be clean and must not have significant damage or self-applied markings. Exception: a logo (see [Regulation 3l](regulations:regulation:3l)).
-    - 3j1) Puzzles are required to have reasonable wear, at the discretion of the WCA Delegate.
+    - 3j1) Puzzles are permitted to have reasonable wear, at the discretion of the WCA Delegate.
 - 3k) Puzzles must be approved by the WCA Delegate before use in the competition.
 - 3l) A puzzle may have a logo on a sticker/tile, but it must have at most one sticker/tile with a logo.
     - 3l1) The logo must be placed on a center piece. Exceptions for puzzles that do not have center pieces:
