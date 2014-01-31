@@ -58,7 +58,8 @@ To be more informative, each Guideline is classified using one of the following 
 - 3a++) [ADDITION] By default, a competitor should use the same puzzle for consecutive attempts in a speed solving round. A competitor may switch puzzles between attempts, at the discretion of the judge or WCA Delegate.
 - 3a+++) [CLARIFICATION] Competitors may borrow puzzles from other competitors privately, to use in competition.
 - 3a1+) [CLARIFICATION] Competitors may be disqualified if they do not come when they are called, or if they do not have a puzzle ready to submit (e.g. if they planned to use a puzzle that another competitor is currently using, and therefore cannot submit their puzzle at the moment).
-- 3d4+) [EXAMPLE] Examples of forbidden use of coloured plastic include: different plastic colour for "cross" pieces, different plastic colour for "last layer" pieces.
+- 3d4+) [EXAMPLE] Examples of permitted use of coloured plastic include: commonly known "stickerless" cubes with different plastic colour on each face.
+- 3d4++) [EXAMPLE] Examples of forbidden use of coloured plastic include: puzzle with white plastic colour, but black plastic colour for "cross" pieces/"last layer" pieces, etc.
 - 3h+) [CLARIFICATION] Puzzles may be refined internally by sanding or lubricating.
 - 3h++) [REMINDER] Modifications of a puzzle must be in line with [Regulation 3a3](regulations:regulation:3a3). Examples of forbidden enhancements include: new moves are possible, normal moves are impossible, moves are done automatically, or the puzzles has more/different solved states.
 - 3h+++) [CLARIFICATION] In the past, "pillowed" cubes and "stickerless" cubes were not allowed. This is no longer the case.
