@@ -112,11 +112,11 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 3a1) Competitors must be present and ready to compete when they are called to compete for a round. Penalty: disqualification from the event.
     - 3a2) Puzzles must be fully operational, such that normal scrambling is possible.
     - 3a3) Polyhedral puzzles must use a colour scheme with one unique colour per face in the solved state. Each puzzle variation must have moves, states, and solutions functionally identical to the original puzzle.
-- 3d) Puzzles must have coloured stickers, coloured tiles, painted colours or coloured plastic.
+- 3d) Puzzles must either have coloured stickers, coloured tiles, painted colours or coloured plastic to define its faces' colours.
     - 3d2) The colours of puzzles must be solid, with uniform texture and one uniform colour per face. Each colour on the puzzle must be clearly distinct from the other colours. Exception: a logo (see [Regulation 3l](regulations:regulation:3l)).
         - 3d2a) Exception: Competitors with a medically documented visual disability may use textured puzzles with different textures on different faces. Textures/patterns must be uniform per face. Each face should have a distinct colour, to aid in scrambling and judging.
     - 3d3) Corrugated/textured stickers whose orientation can be distinguished by feel are not permitted for blindfolded events.
-    - 3d4) Differently coloured plastic must not be used to provide other information than the faces' colours.
+    - 3d4) The body of a puzzle having coloured stickers, coloured tiles or painted colours to define its faces' colours is required to have a uniform colour.
 - 3h) Any modifications to a puzzle that result in poor performance by a competitor are not grounds for additional attempts.
 - 3j) Puzzles must be clean and must not have significant damage or self-applied markings. Exception: a logo (see [Regulation 3l](regulations:regulation:3l)).
     - 3j1) Puzzles are permitted to have reasonable wear, at the discretion of the WCA Delegate.
