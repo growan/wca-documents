@@ -112,26 +112,34 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 3a1) Competitors must be present and ready to compete when they are called to compete for a round. Penalty: disqualification from the event.
     - 3a2) Puzzles must be fully operational, such that normal scrambling is possible.
     - 3a3) Polyhedral puzzles must use a colour scheme with one unique colour per face in the solved state. Each puzzle variation must have moves, states, and solutions functionally identical to the original puzzle.
-- 3d) Puzzles must have coloured stickers or coloured tiles.
-    - 3d1) Exception: Competitors with a medically documented visual disability may use textured puzzles with different textures on different faces. Textures/patterns must be uniform per face. Each face should have a distinct colour, to aid in scrambling and judging.
+- 3d) Polyhedral Puzzles' unique colour per face may be in any visual form. These include but are not limited to: coloured stickers, coloured tiles, painted colours or coloured plastic either inlaid into the piece or comprising the whole piece (as in standard "stickerless" puzzles).
+    - 3d1) Exception: Competitors with a medically documented visual disability may use textured or stickered puzzles with different textures or shaped stickers on different faces. Textures/patterns must be uniform per face. Each face should have a distinct colour, to aid in scrambling and judging.
+	- 3d1a)Exception: Textured puzzles are not permitted in blindfold events with or without medical documentation.
     - 3d2) The colours of puzzles must be solid, with one uniform colour per face. Each colour on the puzzle must be clearly distinct from the other colours.
-    - 3d3) Stickers/tiles must not be thicker than 1mm.
-- 3h) Modifications that enhance the basic concept of a puzzle are not permitted. Modified versions of puzzles are permitted only if the modification does not make any additional information available to the competitor (e.g. identity of pieces), compared to an unmodified version of the same puzzle.
-    - 3h1) "Pillowed" puzzles are not permitted. Exception: Pillowed 7x7x7 Cubes are permitted.
-    - 3h2) "Stickerless" puzzles, and other puzzles whose face colours are visible inside the puzzle, are not permitted.
+    - 3d4) The form of each face's unique colour must remain constant through the puzzle.
+	- 3d4a) Example: A puzzle may not have a mixture of stickers and tiles, either one or more complete faces of tiles and one or more complete faces of stickers, or mixtures of both stickers and tiles on each face.
+    - 3d5) The only identifier of a piece may be the unique colour/s of the faces it is on. Each piece of the puzzle must be uniform in appearance except for the colour identifier. 
+	- 3d4a) Clarification: Puzzles with differing base coloured plastic in the case of stickered, tiled or painted colour puzzles such as having "cross pieces" in black plastic and other pieces in white plastic are forbidden.
+	- 3d4b) Clarification: Puzzles with multiple base colours as well as the colour identifier such as those on "illusion" puzzles are permuted so long as the structure of these multiple base colours is uniform in appearance and feel throughout the puzzle.
+- 3h) Modifications are permitted so long as a puzzle adheres to the regulations. 
     - 3h3) Any modifications to a puzzle that result in poor performance by a competitor are not grounds for additional attempts.
-    - 3h4) For Clock, custom "inserts" (the same shape and size as the traditional paper inserts) are permitted, at the discretion of the WCA Delegate. The inserts must have a clear indication of 12 o'clock that matches the original inserts.
+    - 3h4) For Clock, custom "inserts" (the same shape and size as the traditional paper inserts) are permitted, at the discretion of the WCA Delegate. The inserts must have a clear indication of 12 o'clock that matches the original inserts and that does not give a conspicuous advantage (e.g. encoding information that could be used to cheat).
+    - 3h5) Clarification: Puzzles may be refined internally through sanding or lubrication
+    - 3h6) Reminder: Examples of forbidden modifications include: new moves are possible, normal moves are impossible, moves are done automatically, or the puzzles has more/different solved states.
+	- 3h6a) Clarification: In the past, "pillowed" cubes and "stickerless" cubes were not allowed. This is no longer the case.
 - 3j) Puzzles must be clean, and must not have any markings, elevated pieces, damage, or other differences that significantly distinguish any piece from a similar piece. Exception: a logo (see [Regulation 3l](regulations:regulation:3l)).
     - 3j1) Puzzles are permitted to have reasonable wear, at the discretion of the WCA Delegate.
     - 3j2) Definition: Two pieces are similar to each other if they are identical in shape and size, or mirrored in shape and identical in size.
     - 3j3) Corrugated/textured stickers whose orientation can be distinguished by feel are not permitted for blindfolded events.
 - 3k) Puzzles must be approved by the WCA Delegate before use in the competition.
-- 3l) A puzzle may have a logo on a sticker/tile, but it must have at most one sticker/tile with a logo.
+- 3l) A puzzle may have a logo on a sticker/tile, but it must have at most one sticker/tile with a logo. ExceptionL Square-1 which may have up to two logos.
     - 3l1) The logo must be placed on a center piece. Exceptions for puzzles that do not have center pieces:
         - 3l1a) For Pyraminx and 2x2x2, the logo may be on any piece.
-        - 3l1b) For Square-1, the logo must be on a piece in the middle slice.
+        - 3l1b) For Square-1, the logo/s must be on a piece/s in the middle slice.
     - 3l2) The logo may be embossed, engraved, or consist of an overlay sticker. Exception: The logo must not be distinguishable by feel for blindfolded events (i.e. no embossings, engravings, or overlay stickers).
+    - 3l3) Logos may feature any reasonable design that does not give a conspicuous advantage (e.g. encoding information that could be used to cheat), and leave the colour of the sticker/tile clearly recognisable. Unconventional logos are only permitted at the discretion of the Delegate.
 - 3m) All brands of puzzles and puzzle parts are permitted, as long as the puzzles comply with all WCA Regulations.
+- 3n) If a puzzle does not go against any of these regulations, it is permitted for use in competition.
 
 
 ## <article-4><scrambling><scrambling> Article 4: Scrambling
